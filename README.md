@@ -9,4 +9,4 @@
     - Make sure you have excel as well set up.
   
 
-  Once the above set up is done, run the main.xaml file
+  Once the above set up is done, run the main.xaml file to run the project
